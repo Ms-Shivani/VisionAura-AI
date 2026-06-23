@@ -105,7 +105,7 @@ This repository contains the **EDITH Face Detection Module** — the core percep
 
 ## 👩‍💻 Author
 
-**Shivani** | BE CSE | Chitkara University  
+**Shivani** | BE CSE | Chandigarh University  
 📌 [LinkedIn](https://www.linkedin.com/in/ms-shivani-7ab502383) | [GitHub](https://github.com/Ms-Shivani)
 
 *Built with ❤️ by Team Hackronauts*
